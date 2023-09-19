@@ -72,3 +72,10 @@
 	margin-bottom: 68px;
 }
 /*start news.html*/
+.number {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	color: white;
+	font-size: 48px;
+}
